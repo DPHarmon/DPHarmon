@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-I started my education early in high school through a Kansas GOV program named Upward Bound Math and Science. From there I studied Aerospace Engineering, and Physics at Wichita State University until 2019. After covid I took a break from school, fell in love and married the love of my life. In a full house with 4 step-children a newborn on the way I started to think of my education so far and what I wanted for my and my family's future. Recalling the fun MATLAB course I took as a sophomore at WSU, and my fascination with tech, I decided transfer my credits to Southern New Hampshire University and work on attaining my Bachelors of Science in Computer Science.
+I started my education early in high school through a Kansas GOV program named Upward Bound Math and Science. From there I studied Aerospace Engineering, and Physics at Wichita State University until 2019. After covid I took a break from school, fell in love and got married in May 2023. In a full house with 4 step-children a newborn on the way I started to think of my education so far and what I wanted for my and my family's future. Recalling the fun MATLAB course I took as a sophomore at WSU, and my fascination with tech, I decided transfer my credits to Southern New Hampshire University and work on attaining my Bachelors of Science in Computer Science.
 
 * 🌍  I'm based in Wichita, Kansas
 
